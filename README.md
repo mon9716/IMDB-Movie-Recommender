@@ -86,4 +86,4 @@ Your web browser will automatically open a new tab with the **MoviePlot Recommen
 
 📹 Project Demo
 Check out a short video demonstration of the app in action on LinkedIn:
-[Link to your LinkedIn post with the video demo]
+(https://www.linkedin.com/posts/monica-umamageswaran_python-datascience-machinelearning-activity-7367219819949027329-iLug?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE_7PqYBCyvYmCOnir7XtTdIJhnL6JtNqSA)
